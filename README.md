@@ -4,6 +4,12 @@
 
 ## I'm a beginner front-end developer
 
+<ul>
+    <li>JavaScript developer</li>
+    <li>Frameworks: REACT.JS</li>
+    <li>Е-mail: AlekseiTiutenkov@mail.ru</li>
+</ul>
+
 #
 
 ### Languages and tools
@@ -21,3 +27,5 @@
 
 [![instagram](https://img.shields.io/badge/-instagram-282727?style=for-the-badge&logo=instagram)](https://www.instagram.com/tiutenkoff)
 [![vkontakte](https://img.shields.io/badge/-vkontakte-282727?style=for-the-badge&logo=vk)](https://vk.com/lexat2)
+
+#
