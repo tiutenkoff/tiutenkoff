@@ -1,6 +1,8 @@
 ![Header](https://github.com/tiutenkoff/tiutenkoff/blob/main/assets/headgit.jpg)
 
-About me
+# Hello,
+
+## I'm a beginner front-end developer
 
 Languages and tools
 
