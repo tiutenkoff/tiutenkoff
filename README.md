@@ -7,7 +7,7 @@
 <ul>
     <li>JavaScript developer</li>
     <li>Frameworks: REACT.JS</li>
-    <li>Е-mail: AlekseiTiutenkov@mail.ru</li>
+    <li>e-mail: AlekseiTiutenkov@mail.ru</li>
 </ul>
 
 #
@@ -35,3 +35,21 @@
 [![tiutenkoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiutenkoff&show_icons=true&theme=onedark)](https://github.com/tiutenkoff/github-readme-stats)
 
 #
+
+<style>
+
+    @import url('https://fonts.googleapis.com/css2?family=Frijole&display=swap');
+    body {
+        font-family: 'Frijole', cursive;
+        text-shadow: 1px 1px 8px #f4199a;
+    }
+    li {
+        list-style-type: none
+    }
+    li::before {
+        font-size: 18px;
+        color: #139eff;
+        content: "\2713  ";
+        margin-left: -15px;
+    }
+</style>
