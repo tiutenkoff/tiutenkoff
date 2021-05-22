@@ -29,3 +29,9 @@
 [![vkontakte](https://img.shields.io/badge/-vkontakte-282727?style=for-the-badge&logo=vk)](https://vk.com/lexat2)
 
 #
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiutenkoff&langs_count=8&layout=compact)](https://github.com/tiutenkoff/github-readme-stats)
+
+[![tiutenkoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiutenkoff&show_icons=true&theme=onedark)](https://github.com/tiutenkoff/github-readme-stats)
+
+#
