@@ -17,4 +17,7 @@
 
 #
 
-Follow me
+### Follow me
+
+[![instagram](https://img.shields.io/badge/-instagram-282727?style=for-the-badge&logo=instagram)](https://www.instagram.com/tiutenkoff)
+[![vkontakte](https://img.shields.io/badge/-vkontakte-282727?style=for-the-badge&logo=vk)](https://vk.com/lexat2)
