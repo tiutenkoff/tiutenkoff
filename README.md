@@ -1,6 +1,6 @@
 ![Header](https://github.com/tiutenkoff/tiutenkoff/blob/main/assets/headgit.jpg)
 
-# Hello,
+# Hello, ![visitors](https://visitor-badge.glitch.me/badge?page_id=tiutenkoff)
 
 ## I'm front-end developer
 
@@ -14,11 +14,11 @@
 
 ### Languages and tools
 
+![react](https://img.shields.io/badge/-react-282727?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282727?style=for-the-badge&logo=JavaScript)
 ![Redux](https://img.shields.io/badge/-Redux-282727?style=for-the-badge&logo=Redux)
 ![html](https://img.shields.io/badge/-html-282727?style=for-the-badge&logo=html)
 ![css](https://img.shields.io/badge/-css-282727?style=for-the-badge&logo=css)
-![react](https://img.shields.io/badge/-react-282727?style=for-the-badge&logo=react)
 ![c++](https://img.shields.io/badge/-c++-282727?style=for-the-badge&logo=c%2b%2b&logoColor=blue)
 ![github](https://img.shields.io/badge/-github-282727?style=for-the-badge&logo=github)
 
