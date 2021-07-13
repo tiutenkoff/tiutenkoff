@@ -2,7 +2,7 @@
 
 # Hello,
 
-## I'm a beginner front-end developer
+## I'm front-end developer
 
 <ul>
     <li>JavaScript developer</li>
@@ -15,6 +15,7 @@
 ### Languages and tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282727?style=for-the-badge&logo=JavaScript)
+![Redux](https://img.shields.io/badge/-Redux-282727?style=for-the-badge&logo=Redux)
 ![html](https://img.shields.io/badge/-html-282727?style=for-the-badge&logo=html)
 ![css](https://img.shields.io/badge/-css-282727?style=for-the-badge&logo=css)
 ![react](https://img.shields.io/badge/-react-282727?style=for-the-badge&logo=react)
@@ -28,10 +29,9 @@
 [![instagram](https://img.shields.io/badge/-instagram-282727?style=for-the-badge&logo=instagram)](https://www.instagram.com/tiutenkoff)
 [![vkontakte](https://img.shields.io/badge/-vkontakte-282727?style=for-the-badge&logo=vk)](https://vk.com/lexat2)
 
-#
+# 📈 Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiutenkoff&langs_count=8&layout=compact)](https://github.com/tiutenkoff/github-readme-stats)
-
-[![tiutenkoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiutenkoff&show_icons=true&theme=onedark)](https://github.com/tiutenkoff/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiutenkoff&langs_count=8&layout=compact&theme=midnight-purple)
+![tiutenkoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiutenkoff&show_icons=true&theme=midnight-purple)
 
 #
