@@ -6,7 +6,7 @@ My name is **Alex**, I'm 19 years old, I am a student at the University and has 
 
 ## 📝 About me
 
-I'm **React Front-end developer**. I have experience in layout of layouts of different complexity, creating adaptive layouts, creating websites with jQuery, as well as in working with various tools: redux, axios, scss, github and others.
+I'm **React Front-end developer**. I have experience in layout of layouts of different complexity, creating adaptive layouts, creating websites with jQuery, as well as in working with various tools: redux, typescript, axios, scss, github and others.
 
 <ul>
     <li><img src="https://img.icons8.com/color/22/000000/javascript--v2.png"/> JavaScript developer</li>
@@ -17,6 +17,7 @@ I'm **React Front-end developer**. I have experience in layout of layouts of dif
 ## 🔨 Languages and tools
 
 ![react](https://img.shields.io/badge/-react-282727?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-282727?style=for-the-badge&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282727?style=for-the-badge&logo=JavaScript)
 ![Redux](https://img.shields.io/badge/-Redux-282727?style=for-the-badge&logo=Redux)
 ![html](https://img.shields.io/badge/-html-282727?style=for-the-badge&logo=html)
@@ -31,5 +32,5 @@ I'm **React Front-end developer**. I have experience in layout of layouts of dif
 
 ## 📈 Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiutenkoff&langs_count=8&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiutenkoff&langs_count=6&layout=compact&theme=midnight-purple)
 ![tiutenkoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiutenkoff&show_icons=true&theme=midnight-purple)
