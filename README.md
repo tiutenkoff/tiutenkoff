@@ -2,21 +2,22 @@
 
 # 🙋‍♂ Hey, nice to see you. ![visitors](https://visitor-badge.glitch.me/badge?page_id=tiutenkoff)
 
-My name is **Alex**, I'm 19 years old, I am a student at the University and has been **programming** for 3 years. Read the rest of the information **below** 👇🏻
+My name is **Alex**, I'm 20 years old, I am a student at the University and has been **programming** for 3 years. Read the rest of the information **below** 👇🏻
 
 ## 📝 About me
 
 I'm **React Front-end developer**. I have experience in layout of layouts of different complexity, creating adaptive layouts, creating websites with jQuery, as well as in working with various tools: redux, typescript, axios, scss, github and others.
 
 <ul>
-    <li><img src="https://img.icons8.com/color/22/000000/javascript--v2.png"/> JavaScript developer</li>
-    <li><img src="https://img.icons8.com/color/22/000000/react-native.png"/> Frameworks: ReactJS</li>
+    <li><img src="https://img.icons8.com/color/22/000000/javascript--v2.png"/> Front-end developer</li>
+    <li><img src="https://img.icons8.com/color/22/000000/react-native.png"/> Frameworks: ReactJS, Angular</li>
     <li><img src="https://img.icons8.com/cute-clipart/22/000000/email.png"/> E-mail: AlekseiTiutenkov@mail.ru</li>
 </ul>
 
 ## 🔨 Languages and tools
 
 ![react](https://img.shields.io/badge/-react-282727?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-282727?style=for-the-badge&logo=Angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-282727?style=for-the-badge&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282727?style=for-the-badge&logo=JavaScript)
 ![Redux](https://img.shields.io/badge/-Redux-282727?style=for-the-badge&logo=Redux)
